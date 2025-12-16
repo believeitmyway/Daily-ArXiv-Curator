@@ -1,0 +1,5 @@
+{
+  "name": "Daily ArXiv Curator",
+  "description": "An AI-powered research assistant that curates, summarizes, and visualizes the most impactful daily papers on your chosen topic.",
+  "requestFramePermissions": []
+}
